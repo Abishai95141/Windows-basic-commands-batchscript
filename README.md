@@ -1,5 +1,4 @@
-[# Windows-basic-commands-batchscript
-Ex08-Windows-basic-commands-batchscript
+
 
 # AIM:
 To execute Windows basic commands and batch scripting
@@ -71,4 +70,3 @@ Create a batch script named "BackupScript.bat" that creates a backup of files wi
 # RESULT:
 The commands/batch files are executed successfully.
 
-](https://github.com/Abishai95141/EXNO-6-DS/tree/main)
